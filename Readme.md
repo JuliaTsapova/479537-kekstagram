@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юлия Цапова](https://up.htmlacademy.ru/javascript/12/user/479537).
-* Наставник: `Неизвестно`.
+* Наставник:[Ренат Туктаров](https://up.htmlacademy.ru/javascript/12/user/408799).
 
 ---
 
